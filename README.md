@@ -52,7 +52,7 @@ ecommerce-website/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/ecommerce-website.git
+git clone https://github.com/amnatariq290/ecommerce-website.git
 ```
 
 2. **Open the Project**
@@ -76,7 +76,8 @@ No additional setup required as this is a front-end-only project.
 
 ## 📸 Screenshots
 
-(Add screenshots of your website UI here if available)
+![Screenshot_5-7-2025_18534_](https://github.com/user-attachments/assets/a730b207-f70b-4525-9f91-9dc367b96fe3)
+
 
 
 ---
