@@ -4,6 +4,8 @@
 A fully responsive and interactive front-end eCommerce website built using **HTML**, **CSS**, and **JavaScript**. This project simulates a real-world shopping experience with product listings, categories, modals, search functionality, and more.
 
 ---
+# Preview
+https://dynamic-cat-062ace.netlify.app/
 
 ## 📂 Project Features
 
